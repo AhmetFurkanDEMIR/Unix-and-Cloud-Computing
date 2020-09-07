@@ -75,3 +75,7 @@ print(f'Root password: {password}')
 * You can use all commands that run on UNIX operating systems on Google machines. You can download and use files from the Internet, you can access another machine from this machine, now everything depends on your imagination :).
 
 ![Screenshot_2020-09-07_11-31-37](https://user-images.githubusercontent.com/54184905/92366452-d8a05600-f0fd-11ea-8483-91c7eda4be7f.png)
+
+## Usage Video
+
+Link (Linkedin) : https://www.linkedin.com/posts/1dfurkan_python-google-colab-activity-6708665452429623296-n9_d
