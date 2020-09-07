@@ -1,3 +1,5 @@
+![pngwave](https://user-images.githubusercontent.com/54184905/92367001-8d3a7780-f0fe-11ea-9ce9-a9b7fb7b5475.png)
+
 # Google Colab, remote access to the host computer
 
 * Google Colab gives you GPU / TPU / CPU access for free. To learn more about Google Colab : https://github.com/AhmetFurkanDEMIR/Google-Colab
