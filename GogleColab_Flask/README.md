@@ -47,4 +47,7 @@ if __name__ == "__main__":
 
 * **As a result, we deployed a flask project via Colab pro.**
 
+* **Unfortunately, there will be some limitations of our flask projects deployed with ngrok :(.**
+
+![Screenshot_2020-10-01_22-42-19](https://user-images.githubusercontent.com/54184905/94855771-aef5f880-0437-11eb-8af2-38ce404a97f9.png)
 
