@@ -2,7 +2,7 @@
 
 * The main subject of this article is to learn how to deploy our flask projects on computers rich in gpu and tpu, namely Colab.
 
-* During these operations, we will open a tunnel with ![Ngrok](https://ngrok.com/) from the machine on Colab. Let's get started then.
+* During these operations, we will open a tunnel with Ngrok from the machine on Colab. Let's get started then.
 
 ### flask_ngrok
 
