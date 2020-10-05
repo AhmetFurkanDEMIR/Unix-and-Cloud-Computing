@@ -13,6 +13,7 @@ When using threading, a single operation executes two jobs from different branch
 ```python
 from multiprocessing import Process
 import threading
+import multiprocessing
 import os
 
 !apt-get update
