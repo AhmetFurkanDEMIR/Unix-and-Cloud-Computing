@@ -132,6 +132,10 @@ python3 run.py --wallpaper_engine $wallpaper_engine
 
 ![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/54184905/97030836-0c2d2780-1568-11eb-9ef1-0ecf80064dfb.gif)
 
+**Video result**
+
+https://www.linkedin.com/posts/1dfurkan_linux-pardus-unix-activity-6725455211856449536-kpEw
+
 
 ### Things to pay attention
 
