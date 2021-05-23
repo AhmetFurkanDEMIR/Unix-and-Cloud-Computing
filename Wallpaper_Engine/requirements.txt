@@ -1,3 +1,0 @@
-argparse
-opencv-python
-numpy
