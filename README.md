@@ -2,4 +2,4 @@
 
 * My code repository where I will share the information I learned about Unix operating system commands and cloud computing.
 
-![image](https://user-images.githubusercontent.com/54184905/119265610-f95afe00-bbef-11eb-829f-d53591c386f1.png)
+![pn](https://user-images.githubusercontent.com/54184905/119265636-11cb1880-bbf0-11eb-99bb-90d40dc56f2b.png)
